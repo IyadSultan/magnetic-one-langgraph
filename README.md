@@ -36,5 +36,5 @@ To get involved, clone the repo, check out the initial draft in LangGraph, and r
 
 ```bash
 git clone https://github.com/EmmanuelRTM/magnetic-one-langgraph.git
-cd magneticone-multi-agent-system
+cd magnetic-one-langgraph
 # Install dependencies as required
