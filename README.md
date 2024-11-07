@@ -13,6 +13,16 @@ The MagneticOne multi-agent system, developed by Microsoft, is designed to enabl
 
 This project serves as a foundation for adapting Microsoft's work with Autogen to a LangGraph-based system.
 
+## Background
+
+The MagneticOne system is a **generalist multi-agent system** developed to solve complex, multi-step tasks through effective agent collaboration. For a deeper understanding of the original MagneticOne project, refer to the following resources provided by Microsoft:
+
+- **Blog Post**: [Magnetic One: A Generalist Multi-Agent System for Solving Complex Tasks](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/)
+- **Research Paper**: [Magnetic One - Microsoft Research Paper (PDF)](https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Magentic-One.pdf)
+- **Official GitHub Repository**: [Autogen MagneticOne on GitHub](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one)
+
+These references provide insights into the original design, architecture, and goals of MagneticOne, laying the groundwork for this open-source adaptation.
+
 ## Getting Started
 
 To get involved, clone the repo, check out the initial draft in LangGraph, and run tests to see it in action. 
