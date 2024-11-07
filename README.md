@@ -9,7 +9,7 @@ Welcome to the open-source exploration of Microsoft’s MagneticOne multi-agent 
 The MagneticOne multi-agent system, developed by Microsoft, is designed to enable efficient, multi-agent coordination and decision-making. This repository aims to:
 1. Explain the workflow of MagneticOne in a concise format.
 2. Provide a simple diagram to visualize the core process.
-3. Present a first draft implementation using LangGraph.
+3. Present a first draft implementation of the workflow using LangGraph.
 
 This project serves as a foundation for adapting Microsoft's work with Autogen to a LangGraph-based system.
 
