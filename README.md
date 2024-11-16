@@ -4,6 +4,7 @@ Welcome to the open-source exploration of Microsoft’s MagneticOne multi-agent 
 
 ---
 
+
 ## Overview
 
 The MagneticOne multi-agent system, developed by Microsoft, is designed to enable efficient, multi-agent coordination and decision-making. This repository aims to:
